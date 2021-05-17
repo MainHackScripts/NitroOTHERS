@@ -91,7 +91,7 @@ Script3.TextSize = 27.000
 Script3.MouseButton1Down:connect(function()
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "GUI BY:", Text = "NitroHub#5026"})
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Gui DSFX", Text = "NitroHub#5026"})
-	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "CODING BY:", Text = "NitroHub#5026"})
+	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "CODING BY:", Text = "WolfGod!"})
 	game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Thank you", Text = "Thanks for using NitroHUB!"})
 end)
 
